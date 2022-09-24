@@ -10,7 +10,7 @@
 
 # Setup for Django
 
-* 1 - Clone project: git clone https://github.com/patoski716/promanager-django.git
+* 1 - Clone project: git clone https://github.com/patoski716/crime-reporting-system-Djangorestframework.git
 * 2 - cd promanager-django
 * 3 - Create virtual environment: virtualenv myenv
 * 4 - myenv\scripts\activate
